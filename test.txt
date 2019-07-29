@@ -1,2 +1,10 @@
-test delete...
-test push master...
+本周主要学习内容
+1.	React知识学习（事件处理、生命周期等）
+2.	Redux、Redux-saga基础知识学习
+3.	JS ES6的学习
+
+下周学习计划
+1.	对React/Redux学习到的知识进行总结回顾和练习
+2.	继续JS ES6的学习
+3.	Dva学习
+4.	Lodash学习
